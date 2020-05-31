@@ -1,0 +1,9 @@
+C:\Users\Microsoft Surface\source\repos\Banksystem\Banksystem\bin\Debug\Banksystem.exe.config
+C:\Users\Microsoft Surface\source\repos\Banksystem\Banksystem\bin\Debug\Banksystem.exe
+C:\Users\Microsoft Surface\source\repos\Banksystem\Banksystem\bin\Debug\Banksystem.pdb
+C:\Users\Microsoft Surface\source\repos\Banksystem\Banksystem\obj\Debug\Banksystem.csprojAssemblyReference.cache
+C:\Users\Microsoft Surface\source\repos\Banksystem\Banksystem\obj\Debug\Banksystem.Form1.resources
+C:\Users\Microsoft Surface\source\repos\Banksystem\Banksystem\obj\Debug\Banksystem.Properties.Resources.resources
+C:\Users\Microsoft Surface\source\repos\Banksystem\Banksystem\obj\Debug\Banksystem.csproj.GenerateResource.cache
+C:\Users\Microsoft Surface\source\repos\Banksystem\Banksystem\obj\Debug\Banksystem.exe
+C:\Users\Microsoft Surface\source\repos\Banksystem\Banksystem\obj\Debug\Banksystem.pdb
